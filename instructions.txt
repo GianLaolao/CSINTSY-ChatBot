@@ -1,0 +1,12 @@
+How to Run ChatBot (Group 6)
+
+
+1. Open chatBot.py and run.
+2. Enter a prompt to either give a statement to add to the knowledge base or enter a question to query the chatbot.
+3. In entering your prompt, make sure to include a period (.) or a queston mark (?) in order for the bot to determine the type of prompt.
+	ex. Alice and Bob are siblings.
+4. Make sure the syntax is correct and no unnecessary symbols.
+5. After entering your prompt, press Enter and wait for the ChatBot's response.
+6. The ChatBot will then return a response based on your prompt.
+7. If there are errors in the prompt, it will return an error message or the program will terminate.
+8. To exit the program, type "exit"
